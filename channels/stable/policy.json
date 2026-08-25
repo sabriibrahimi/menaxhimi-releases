@@ -1,14 +1,14 @@
 {
-  "version": "1.3.1",
+  "version": "1.3.2",
   "channel": "stable",
   "mandatory": false,
   "minimumSupportedVersion": null,
   "requiresDatabaseBackup": true,
   "releaseNotes": [
-    "Paneli Financiar u ridizajnua me statistika reale për të ardhurat, materialet dhe neto profitin.U shtuan regjistrimi, verifikimi me email dhe rikuperimi i sigurt i fjalëkalimit.U shtua kontakti i drejtpërdrejtë me klientët përmes WhatsApp-it.U thjeshtua navigimi duke hequr Dashboard-in dhe kartën e panevojshme te Punët.U përmirësuan kopjet rezervë dhe ruajtja e të dhënave."
+    "U hoq seksioni Tema dhe kontrolli i Modalitetit të Errët nga faqja Cilësimet."
   ],
-  "installer": "Menaxhimi.i.biznesit.Setup.1.3.1.exe",
-  "sha512": "1J7DV8FQvmqEIVNRcclw+Cfftc6b15g7qKlHTf8RMy9hVrouAXGiomfqwdFrq6HY+FOehBxnOcLUcbkd1cD+Pg==",
-  "publishedAt": "2026-08-25T13:16:33.336Z",
-  "signature": "+rQuzQQbhHr57vNAQCY8fBMOeP205zaxbtAAeISEj0aoMRJNAUE9OlxJLHMZW2wEccsQLTpC8J8iwMEdw1dEBQ=="
+  "installer": "Menaxhimi.i.biznesit.Setup.1.3.2.exe",
+  "sha512": "LiRwgNsTtP7R4e1+vFJSFFDEgsARAncNAv2nkVNedGjhaw2Ki0baf/Sc1TdYEaUPRqF5q0Db4PaD3XzrEEjp+Q==",
+  "publishedAt": "2026-08-25T13:35:51.063Z",
+  "signature": "VDc6WZGfesumgd8FSAB/BBaMrycTmzKFWIiMiBiWIiTLg8MCULwRE7bIsjTs4PauCP7c8O36ngmL6f2YcPW9CA=="
 }
