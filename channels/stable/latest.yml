@@ -1,8 +1,8 @@
-version: 1.3.2
+version: 1.3.3
 files:
-  - url: https://github.com/sabriibrahimi/menaxhimi-releases/releases/download/v1.3.2/Menaxhimi.i.biznesit.Setup.1.3.2.exe
-    sha512: LiRwgNsTtP7R4e1+vFJSFFDEgsARAncNAv2nkVNedGjhaw2Ki0baf/Sc1TdYEaUPRqF5q0Db4PaD3XzrEEjp+Q==
-    size: 81385670
-path: https://github.com/sabriibrahimi/menaxhimi-releases/releases/download/v1.3.2/Menaxhimi.i.biznesit.Setup.1.3.2.exe
-sha512: LiRwgNsTtP7R4e1+vFJSFFDEgsARAncNAv2nkVNedGjhaw2Ki0baf/Sc1TdYEaUPRqF5q0Db4PaD3XzrEEjp+Q==
-releaseDate: '2026-08-25T13:35:50.044Z'
+  - url: https://github.com/sabriibrahimi/menaxhimi-releases/releases/download/v1.3.3/Menaxhimi.i.biznesit.Setup.1.3.3.exe
+    sha512: UOY5m426wLyZ47hq2JZ5acytL8el3UYF4HSGV7VMVQ8v1dChVSMkAWQH1N0YK1/w7XsQhp2AWHRJm5aKcrt9Gg==
+    size: 81387502
+path: https://github.com/sabriibrahimi/menaxhimi-releases/releases/download/v1.3.3/Menaxhimi.i.biznesit.Setup.1.3.3.exe
+sha512: UOY5m426wLyZ47hq2JZ5acytL8el3UYF4HSGV7VMVQ8v1dChVSMkAWQH1N0YK1/w7XsQhp2AWHRJm5aKcrt9Gg==
+releaseDate: '2026-08-25T14:10:38.764Z'
